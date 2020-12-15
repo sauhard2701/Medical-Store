@@ -6,7 +6,7 @@ using namespace std;
 
 int flag ; 
 
-class insurance 
+class store 
 {
     public:
         string name;
@@ -17,7 +17,7 @@ class insurance
  
 int num;
 void showMenu();
-insurance med[max];
+store med[max];
 
 void display()
 {
